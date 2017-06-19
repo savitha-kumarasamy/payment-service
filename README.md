@@ -1,1 +1,1 @@
-# simple-payment
+# payment-service
